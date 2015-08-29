@@ -1,2 +1,2 @@
 # MyProject
-Store Ushahidi
+Store something interesting
